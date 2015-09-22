@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SmartCar", "SmartCar\SmartCar.vcxproj", "{E666F5C5-7313-48F2-8068-EB137D11E4B2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ImageProcess", "ImageProcess\ImageProcess.vcxproj", "{1E5C9C46-BA23-4DD5-8074-6A3344030ABD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E666F5C5-7313-48F2-8068-EB137D11E4B2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E666F5C5-7313-48F2-8068-EB137D11E4B2}.Debug|Win32.Build.0 = Debug|Win32
+		{E666F5C5-7313-48F2-8068-EB137D11E4B2}.Release|Win32.ActiveCfg = Release|Win32
+		{E666F5C5-7313-48F2-8068-EB137D11E4B2}.Release|Win32.Build.0 = Release|Win32
+		{1E5C9C46-BA23-4DD5-8074-6A3344030ABD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1E5C9C46-BA23-4DD5-8074-6A3344030ABD}.Debug|Win32.Build.0 = Debug|Win32
+		{1E5C9C46-BA23-4DD5-8074-6A3344030ABD}.Release|Win32.ActiveCfg = Release|Win32
+		{1E5C9C46-BA23-4DD5-8074-6A3344030ABD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

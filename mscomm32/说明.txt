@@ -1,0 +1,3 @@
+将MSComm32考至Windows\SysWOW64文件夹下
+打开cmd，输入regsvr32 C:\Windows\SysWOW64\MSComm32.ocx
+enter即可
